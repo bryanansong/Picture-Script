@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-input {
+  width: 300px;
+  height: 20px;
+  margin: 20px;
+}
+
+.result-image {
+  margin-top: 20px;
+  width: 400px;
+  border-radius: 15px;
+}
+
+.footer {
+  margin-top: 5%;
+  text-align: center;
+  padding: 3px;
+  color: #5755558f;
+}
